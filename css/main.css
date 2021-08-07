@@ -12,7 +12,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
 nav .menu-bar {
@@ -71,13 +71,13 @@ main {
   flex-direction: column;
   align-items: center;
   height: 100%;
-  height: 685px;
+  height: 600px;
   margin-top: 60px;
 }
 
 main .logo {
   margin-top: 50px;
-  width: 310px;
+  width: 300px;
   margin-bottom: 32px;
 }
 
@@ -145,7 +145,7 @@ footer {
   background-color: #dadce0;
   display: flex;
   margin: 0;
-  height: 70px;
+  height: 60px;
   justify-content: center;
   align-items: center;
   font-size: 1.2em;
