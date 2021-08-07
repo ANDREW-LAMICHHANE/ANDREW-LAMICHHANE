@@ -7,3 +7,6 @@
 <img src="images/google.png">
 <br>
 <a href="https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css">Project Description From Odin</a>
+<br>
+
+ <a href="https://andrew-lamichhane.github.io/google-homepage/">Live demo</a>
